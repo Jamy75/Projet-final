@@ -1,4 +1,6 @@
 # Projet-final
+My final project is about underage asylum seeker.
+
 
 You should deliver:
 ●	Planning of your project in Trello/Jira,
