@@ -1,6 +1,6 @@
 # Projet-final
 
-My final project as data analyst, i decided to choose the subject about underage asylum seeker.
+My final project as junior data analyst, I decided to choose the subject about underage asylum seeker.
 
 
 ●	Project management on Trello
